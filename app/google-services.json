@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "562091774501",
+    "firebase_url": "https://laboratorioars2019ms.firebaseio.com",
+    "project_id": "laboratorioars2019ms",
+    "storage_bucket": "laboratorioars2019ms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562091774501:android:9a86de600314662e",
+        "android_client_info": {
+          "package_name": "com.example.laboratorioars2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562091774501-qrh912rfts5i6sr2osg3621mmplrbd25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUVNB4I_D8qq7lKjq_HjVEwY_IpeTWF74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562091774501-qrh912rfts5i6sr2osg3621mmplrbd25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

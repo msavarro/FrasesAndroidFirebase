@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Frases!</string>
+    <string name="frase">Ingrese su frase aqui!</string>
+    <string name="autor">Ingrese el autor aqui!</string>
+</resources>
